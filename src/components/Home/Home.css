@@ -1,0 +1,45 @@
+.content{
+    background-color: pink;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    color: blue;
+}
+
+.ipt{
+    color:black;
+    width: 80%;
+    height: 35px;
+    text-align: center;
+    /* border-radius: 25px; */
+    font-size: 25px;
+    border: 2px solid black;  
+}
+
+.btn{
+    display: flex;
+    float: right;
+    margin-top: -35px;
+    margin-right: 40px;
+    height: 35px;
+    font-size: 25px;
+    /* padding: 20px; */
+    /* border: 2px solid black; */
+}
+
+.sub-heading{
+    color: white;
+    font-size: 30px;
+    background-color: red;
+   
+}
+.output{
+    text-align: left;
+}
+
+.output h2{
+    text-align: left;
+    color: blue;
+}
